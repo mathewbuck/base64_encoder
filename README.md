@@ -1,6 +1,11 @@
 # Base64_encoder
 Lua written cli application that encodes or decodes the provided string.
 
+Currently the application is set to run on Windows. To change this from windows to Mac/Unix perform the following actions: 
+
+{os.execute('cls')} to -> {os.execute('clear')}
+
+
 # Dependencies:
 https://github.com/iskolbin/lbase64
 
